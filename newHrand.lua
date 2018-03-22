@@ -1,5 +1,5 @@
 ﻿table = {}
 
 function table.new()
-	print('this is a xiaobendan writer')
+	print('you are new hrand')
 end 
